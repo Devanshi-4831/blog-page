@@ -22,7 +22,7 @@ const StickyNavbar = () => {
       <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
         {/* Blue Lejhro Logo */}
         <img
-  src="/public/images/lejhro_logo_blue.png"
+  src="/images/lejhro_logo_blue.png"
   alt="Lejhro Logo"
   className="h-7 w-auto"
 />
