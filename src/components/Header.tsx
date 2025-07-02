@@ -55,7 +55,7 @@ const Header: React.FC = () => {
             {/* Header inside drawer */}
             <div className="flex justify-between items-center mb-6">
               <img
-  src="/public/images/lejhro_logo_blue.png"
+  src="/images/lejhro_logo_blue.png"
   alt="Lejhro Logo"
   className="h-7 w-auto"
 />
