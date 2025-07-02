@@ -19,7 +19,7 @@ const Header: React.FC = () => {
             <div className="flex items-center">
               <div className="flex items-center">
   <img
-    src="/public/images/lejhro_logo_white.png"
+    src="/images/lejhro_logo_white.png"
     alt="Lejhro Logo"
     className="h-8 w-auto"
   />
